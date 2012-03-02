@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>discovery</Machine>
+    <WindowsUser>jrg</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\jrg\Documents\Visual Studio 11\Projects\Application3\Application3\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <Modified>2012-03-02T08:11:46.839</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\jrg\Documents\Visual Studio 11\Projects\Application3\Application3\mp3\fart-5.mp3">
+      <PackagePath>mp3\fart-5.mp3</PackagePath>
+      <Modified>2012-03-02T07:55:02.292</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jrg\Documents\Visual Studio 11\Projects\Application3\Application3\mp3\fart-6.mp3">
+      <PackagePath>mp3\fart-6.mp3</PackagePath>
+      <Modified>2012-03-02T07:54:52.348</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jrg\Documents\Visual Studio 11\Projects\Application3\Application3\mp3\fart-7.mp3">
+      <PackagePath>mp3\fart-7.mp3</PackagePath>
+      <Modified>2012-03-02T07:19:28.463</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jrg\Documents\Visual Studio 11\Projects\Application3\Application3\mp3\fart-wav-1.wav">
+      <PackagePath>mp3\fart-wav-1.wav</PackagePath>
+      <Modified>2012-03-02T07:13:39.294</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jrg\Documents\Visual Studio 11\Projects\Application3\Application3\default.html">
+      <PackagePath>default.html</PackagePath>
+      <Modified>2012-03-02T08:06:47.739</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jrg\Documents\Visual Studio 11\Projects\Application3\Application3\images\logo.png">
+      <PackagePath>images\logo.png</PackagePath>
+      <Modified>2012-02-14T07:25:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jrg\Documents\Visual Studio 11\Projects\Application3\Application3\images\smalllogo.png">
+      <PackagePath>images\smalllogo.png</PackagePath>
+      <Modified>2012-02-14T07:25:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jrg\Documents\Visual Studio 11\Projects\Application3\Application3\images\splashscreen.png">
+      <PackagePath>images\splashscreen.png</PackagePath>
+      <Modified>2012-02-14T07:25:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jrg\Documents\Visual Studio 11\Projects\Application3\Application3\images\storelogo.png">
+      <PackagePath>images\storelogo.png</PackagePath>
+      <Modified>2012-02-14T07:25:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jrg\Documents\Visual Studio 11\Projects\Application3\Application3\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+      <Modified>2012-02-14T07:25:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jrg\Documents\Visual Studio 11\Projects\Application3\Application3\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2012-03-02T08:00:36.138</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jrg\Documents\Visual Studio 11\Projects\Application3\Application3\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2012-03-02T08:11:46.475</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files (x86)\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS\0.6\">
+      <Name>Microsoft.WinJS.0.6.Debug</Name>
+      <Version>0.6.8229.0</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.0.6.Debug, MinVersion=0.6.8229.0</FrameworkIdentity>
+      <AppxLocation>C:\Program Files (x86)\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS\0.6\Microsoft.WinJS.0.6.Debug.appx</AppxLocation>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

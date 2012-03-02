@@ -1,0 +1,13 @@
+C:\Users\jrg\Documents\Visual Studio 11\Projects\Application3\Application3\bin\Debug\resources.pri
+C:\Users\jrg\Documents\Visual Studio 11\Projects\Application3\Application3\bin\Debug\AppxManifest.xml
+C:\Users\jrg\Documents\Visual Studio 11\Projects\Application3\Application3\bin\Debug\Application3.build.appxrecipe
+C:\Users\jrg\Documents\Visual Studio 11\Projects\Application3\Application3\bld\Debug\priconfig.xml.intermediate
+C:\Users\jrg\Documents\Visual Studio 11\Projects\Application3\Application3\bld\Debug\layout.resfiles.intermediate
+C:\Users\jrg\Documents\Visual Studio 11\Projects\Application3\Application3\bld\Debug\resources.resfiles.intermediate
+C:\Users\jrg\Documents\Visual Studio 11\Projects\Application3\Application3\bld\Debug\pri.resfiles.intermediate
+C:\Users\jrg\Documents\Visual Studio 11\Projects\Application3\Application3\bld\Debug\priconfig.xml
+C:\Users\jrg\Documents\Visual Studio 11\Projects\Application3\Application3\bld\Debug\layout.resfiles
+C:\Users\jrg\Documents\Visual Studio 11\Projects\Application3\Application3\bld\Debug\resources.resfiles
+C:\Users\jrg\Documents\Visual Studio 11\Projects\Application3\Application3\bld\Debug\pri.resfiles
+C:\Users\jrg\Documents\Visual Studio 11\Projects\Application3\Application3\bld\Debug\LanguageQualifiers.txt
+C:\Users\jrg\Documents\Visual Studio 11\Projects\Application3\Application3\bld\Debug\ProjectArchitectures.txt
