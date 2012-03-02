@@ -55,6 +55,7 @@
     <Content Include="mp3\fart-6.mp3" />
     <Content Include="mp3\fart-7.mp3" />
     <Content Include="mp3\fart-wav-1.wav" />
+    <Content Include="readme.md" />
     <None Include="Application3_TemporaryKey.pfx" />
     <Content Include="default.html" />
     <Content Include="images\logo.png" />
