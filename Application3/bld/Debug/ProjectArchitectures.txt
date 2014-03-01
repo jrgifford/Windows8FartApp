@@ -1,1 +1,1 @@
-C:\Users\jrg\Documents\Visual Studio 11\Projects\Application3\Application3\Application3.jsproj;neutral
+C:\Users\jrg\Source\Repos\windows8fartapp\Application3\Application3.jsproj;neutral

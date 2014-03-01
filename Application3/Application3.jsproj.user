@@ -4,4 +4,7 @@
     <ReferenceCachePath>C:\Users\jrg\AppData\Local\Temp\Application3_refcache</ReferenceCachePath>
     <AutoRefresh>true</AutoRefresh>
   </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DebuggerFlavor>AppHostLocalDebugger</DebuggerFlavor>
+  </PropertyGroup>
 </Project>

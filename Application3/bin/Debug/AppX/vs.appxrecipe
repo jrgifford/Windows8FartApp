@@ -1,80 +1,87 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <Machine>discovery</Machine>
+    <Machine>SPACESHIPONE</Machine>
     <WindowsUser>jrg</WindowsUser>
     <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
     <PackageArchitecture>neutral</PackageArchitecture>
-    <RegisteredManifestChecksum>1B31B93E07FCB406AE954D885E9A0D0B85FAD4A21A17527CEA5872A45FA700EF</RegisteredManifestChecksum>
-    <RegisteredPackageMoniker>644c888f-b7a5-4fd5-8242-d47638a11c17_1.0.0.0_neutral__9qjkzn4ca8dd2</RegisteredPackageMoniker>
+    <PackageIdentityName>644c888f-b7a5-4fd5-8242-d47638a11c17</PackageIdentityName>
+    <RegisteredManifestChecksum>37FD7ABE9152A95E54F046191C3775651772775A33D9B4781B7D57B359AD3263</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>644c888f-b7a5-4fd5-8242-d47638a11c17_1.1.0.0_neutral__9qjkzn4ca8dd2</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>644c888f-b7a5-4fd5-8242-d47638a11c17_9qjkzn4ca8dd2!App</RegisteredUserModeAppID>
     <RegisteredPackageID>644c888f-b7a5-4fd5-8242-d47638a11c17</RegisteredPackageID>
     <RegisteredPackagePublisher>CN=jrg</RegisteredPackagePublisher>
-    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <RegisteredVersion>1.1.0.0</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\jrg\Documents\Visual Studio 11\Projects\Application3\Application3\bin\Debug\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\jrg\Source\Repos\windows8fartapp\Application3\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
-      <Modified>2012-03-02T08:11:46.839</Modified>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-01T00:18:11.554</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\jrg\Documents\Visual Studio 11\Projects\Application3\Application3\mp3\fart-5.mp3">
+    <AppxPackagedFile Include="C:\Users\jrg\Source\Repos\windows8fartapp\Application3\mp3\fart-5.mp3">
       <PackagePath>mp3\fart-5.mp3</PackagePath>
-      <Modified>2012-03-02T07:55:02.292</Modified>
+      <Modified>2014-03-01T00:10:55.926</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\jrg\Documents\Visual Studio 11\Projects\Application3\Application3\mp3\fart-6.mp3">
+    <AppxPackagedFile Include="C:\Users\jrg\Source\Repos\windows8fartapp\Application3\mp3\fart-6.mp3">
       <PackagePath>mp3\fart-6.mp3</PackagePath>
-      <Modified>2012-03-02T07:54:52.348</Modified>
+      <Modified>2014-03-01T00:10:55.928</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\jrg\Documents\Visual Studio 11\Projects\Application3\Application3\mp3\fart-7.mp3">
+    <AppxPackagedFile Include="C:\Users\jrg\Source\Repos\windows8fartapp\Application3\mp3\fart-7.mp3">
       <PackagePath>mp3\fart-7.mp3</PackagePath>
-      <Modified>2012-03-02T07:19:28.463</Modified>
+      <Modified>2014-03-01T00:10:55.930</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\jrg\Documents\Visual Studio 11\Projects\Application3\Application3\mp3\fart-wav-1.wav">
+    <AppxPackagedFile Include="C:\Users\jrg\Source\Repos\windows8fartapp\Application3\mp3\fart-wav-1.wav">
       <PackagePath>mp3\fart-wav-1.wav</PackagePath>
-      <Modified>2012-03-02T07:13:39.294</Modified>
+      <Modified>2014-03-01T00:10:55.933</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\jrg\Documents\Visual Studio 11\Projects\Application3\Application3\default.html">
+    <AppxPackagedFile Include="C:\Users\jrg\Source\Repos\windows8fartapp\Application3\default.html">
       <PackagePath>default.html</PackagePath>
-      <Modified>2012-03-02T08:06:47.739</Modified>
+      <Modified>2014-03-01T00:25:43.822</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\jrg\Documents\Visual Studio 11\Projects\Application3\Application3\images\logo.png">
+    <AppxPackagedFile Include="C:\Users\jrg\Source\Repos\windows8fartapp\Application3\images\logo.png">
       <PackagePath>images\logo.png</PackagePath>
-      <Modified>2012-02-14T07:25:26.000</Modified>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-01T00:10:55.918</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\jrg\Documents\Visual Studio 11\Projects\Application3\Application3\images\smalllogo.png">
+    <AppxPackagedFile Include="C:\Users\jrg\Source\Repos\windows8fartapp\Application3\images\smalllogo.png">
       <PackagePath>images\smalllogo.png</PackagePath>
-      <Modified>2012-02-14T07:25:26.000</Modified>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-01T00:10:55.919</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\jrg\Documents\Visual Studio 11\Projects\Application3\Application3\images\splashscreen.png">
+    <AppxPackagedFile Include="C:\Users\jrg\Source\Repos\windows8fartapp\Application3\images\splashscreen.png">
       <PackagePath>images\splashscreen.png</PackagePath>
-      <Modified>2012-02-14T07:25:26.000</Modified>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-01T00:10:55.920</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\jrg\Documents\Visual Studio 11\Projects\Application3\Application3\images\storelogo.png">
+    <AppxPackagedFile Include="C:\Users\jrg\Source\Repos\windows8fartapp\Application3\images\storelogo.png">
       <PackagePath>images\storelogo.png</PackagePath>
-      <Modified>2012-02-14T07:25:26.000</Modified>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-01T00:10:55.922</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\jrg\Documents\Visual Studio 11\Projects\Application3\Application3\js\default.js">
+    <AppxPackagedFile Include="C:\Users\jrg\Source\Repos\windows8fartapp\Application3\js\default.js">
       <PackagePath>js\default.js</PackagePath>
-      <Modified>2012-02-14T07:25:26.000</Modified>
+      <Modified>2014-03-01T00:10:55.924</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\jrg\Documents\Visual Studio 11\Projects\Application3\Application3\css\default.css">
+    <AppxPackagedFile Include="C:\Users\jrg\Source\Repos\windows8fartapp\Application3\css\default.css">
       <PackagePath>css\default.css</PackagePath>
-      <Modified>2012-03-02T08:00:36.138</Modified>
+      <Modified>2014-03-01T00:10:55.915</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\jrg\Documents\Visual Studio 11\Projects\Application3\Application3\bin\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\jrg\Source\Repos\windows8fartapp\Application3\bin\Debug\ReverseMap\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2012-03-02T08:11:46.475</Modified>
+      <Modified>2014-03-01T00:18:11.505</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
-    <ResolvedSDKReference Include="C:\Program Files (x86)\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS\0.6\">
-      <Name>Microsoft.WinJS.0.6.Debug</Name>
-      <Version>0.6.8229.0</Version>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\">
+      <Name>Microsoft.WinJS.2.0</Name>
+      <Version>1.0.9600.16408</Version>
       <Architecture>Neutral</Architecture>
-      <FrameworkIdentity>Name=Microsoft.WinJS.0.6.Debug, MinVersion=0.6.8229.0</FrameworkIdentity>
-      <AppxLocation>C:\Program Files (x86)\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS\0.6\Microsoft.WinJS.0.6.Debug.appx</AppxLocation>
+      <FrameworkIdentity>Name=Microsoft.WinJS.2.0, MinVersion=1.0.9600.16408</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\Microsoft.WinJS.2.0.appx</AppxLocation>
+      <MoreInfo>http://go.microsoft.com/fwlink/%3fLinkId=260891</MoreInfo>
     </ResolvedSDKReference>
   </ItemGroup>
 </Project>
